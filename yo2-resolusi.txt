@@ -2,3 +2,4 @@ YO2 RESOLUSI
 - Mempelajari teknologi terbaru dibidang IT
 - Membuat project yang berguna bagi banyak orang
 - Menguasai REST API
+- Mempelajari node.js
